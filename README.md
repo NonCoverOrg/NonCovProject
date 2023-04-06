@@ -1,1 +1,2 @@
 # NonCovProject
+just test
