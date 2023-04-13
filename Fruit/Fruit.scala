@@ -15,7 +15,22 @@ class Fruit(val name: String) {
   def addFruit3(fruit: Fruit, basket: List[Fruit]): List[String] = basket += fruit
 
   val fruitsList3 = List(Fruit("banana"), Fruit("kiwi"))
-  def addFruit4(fruit: Fruit, basket: List[Fruit]): List[String] = basket += fruit
+  def addFruit4(): Unit = {
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+    println("FRIUT")
+  }
 
   val fruitsList4 = List(Fruit("banana"), Fruit("kiwi"))
 }
